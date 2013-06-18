@@ -1,0 +1,4 @@
+GeoJsonTest
+===========
+
+Testing geojson rendering
