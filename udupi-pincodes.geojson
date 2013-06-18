@@ -8,13 +8,13 @@
        "geometry": {
          "type": "Polygon",
          "coordinates": [
-           [ [13.386029,74.738016], [13.391749,74.749432], [13.377721,74.740591]]
+           [ [74.738016,13.386029], [74.749432,13.391749], [74.740591,13.377721]]
            ]
  
        },
        "properties": {
-         "prop0": "value0",
-         "prop1": {"this": "that"}
+         "PIN": "576105",
+         "Attempt": "Trying to capture this PIN code range"
          }
        }
     ]
