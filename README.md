@@ -1,4 +1,4 @@
 GeoJsonTest
 ===========
 
-geojson rendering
+geoJSON rendering
